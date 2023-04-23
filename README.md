@@ -15,6 +15,10 @@ Goal: To simulate some very basic light behavior including reflection, refractio
 ### Refraction
 ![vlcsnap-2023-04-23-09h50m44s360](https://user-images.githubusercontent.com/131531154/233822287-2119f2ef-e8e9-47fd-807b-c41e7ba0a84e.png)
 
+### Languages & Programs Used
+ - C#
+ - Visual Studio
+ - Unity Engine
 
 ### Things I learnt
  - Working with LineRenderer
